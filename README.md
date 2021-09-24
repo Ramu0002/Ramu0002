@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ramu0002
 - 👀 I’m interested in ...AI ML and CyberSecurity
 - 🌱 I’m currently learning ...Computer Science and Engineering
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...ramac3586@gmail.com
 
 <!---
